@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 
 <Body>
-<body style="background-color🟤;">
+<body style="background-color:brown;">
 
 <h1 style color="color:green;">Welcome to Lerasi Integrated Services</h1>
 
