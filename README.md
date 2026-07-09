@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Barry First Cloud Website</title>
+
 <Body>
 <body style="background-color:gold;">
 
