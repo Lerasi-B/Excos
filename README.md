@@ -114,7 +114,7 @@ h1{
 </div>
 
 <div class="card">
-    <img src="IMG_1956.jpeg">
+    <img src="IMG_1960.jpeg">
     <h2>DANIBARI</h2>
     <p class="position">PRO</p>
 </div>
