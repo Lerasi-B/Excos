@@ -102,13 +102,13 @@ h1{
 </div>
 
 <div class="card">
-    <img src="IMG_1956.jpeg">
+    <img src="IMG_1955.jpeg">
     <h2>BARRY</h2>
     <p class="position">Secretary</p>
 </div>
 
 <div class="card">
-    <img src="IMG_1950.jpeg">
+    <img src="IMG_1956.jpeg">
     <h2>Sarah Doe</h2>
     <p class="position">Treasurer</p>
 </div>
