@@ -1,20 +1,44 @@
 
+
 <html>
 <head>
+    <title>Executive Members</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: navy;
+            color: white;
+            text-align: center;
+        }
 
-<Body>
-<body style="background-color:orange;">
+        h1 {
+            color: gold;
+        }
 
-<h1 style color="color:green;text-align
-  ;center;">Welcome to Lerasi Integrated Services
+        .member {
+            margin: 15px;
+            padding: 10px;
+            background-color: rgba(255,255,255,0.1);
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
 
-<p style="color:indigo;">We Specialises on all kinds of Phones, power banks, chargers, cords mp3 etc</p>
+    <h1>CSS NWEOL BATCH 2013</h1>
+    <h2>Executive Members</h2>
 
-<p style="color:white;"> Location: Online shopping</p> 
-<p style="color:blue;"> Phone Number: 08039291297</p>
-<em><p style="text-align:center;color:green;">This Website was deploy using github
-</p>
-<body/>
+    <div class="member">President - Your Name</div>
+    <div class="member">Vice President - Your Name</div>
+    <div class="member">Secretary - Your Name</div>
+    <div class="member">Assistant Secretary - Your Name</div>
+    <div class="member">Treasurer - Your Name</div>
+    <div class="member">Financial Secretary - Your Name</div>
+    <div class="member">PRO - Your Name</div>
 
+    <br>
 
+    <a href="index.html" style="color:gold;">Back to Home Page</a>
 
+</body>
+</html>
