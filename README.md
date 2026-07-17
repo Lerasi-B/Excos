@@ -91,13 +91,13 @@ h1{
 
 <div class="card">
     <img src="IMG_1950.jpeg">
-    <h2>John Doe</h2>
+    <h2>Adomagio Probel</h2>
     <p class="position">President</p>
 </div>
 
 <div class="card">
     <img src="IMG_1950.jpeg">
-    <h2>Jane Doe</h2>
+    <h2>Lucky Boy</h2>
     <p class="position">Vice President</p>
 </div>
 
@@ -109,8 +109,14 @@ h1{
 
 <div class="card">
     <img src="IMG_1956.jpeg">
-    <h2>Sarah Doe</h2>
-    <p class="position">Treasurer</p>
+    <h2>XAN G</h2>
+    <p class="position">PRO</p>
+</div>
+
+<div class="card">
+    <img src="IMG_1956.jpeg">
+    <h2>DANIBARI</h2>
+    <p class="position">PRO</p>
 </div>
 
 </div>
