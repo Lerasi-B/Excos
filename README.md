@@ -10,7 +10,7 @@ body{
     font-family:Arial, sans-serif;
     background:
     linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),
-    url('IMG_1965.jpg');
+    url('IMG_1965.jpeg');
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
